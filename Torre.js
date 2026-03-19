@@ -1,4 +1,4 @@
-import Stack from "./Stack.mjs"
+import Stack from "./lib/Stack.mjs"
 
 let TorreA = new Stack
 let TorreB = new Stack
